@@ -2,6 +2,7 @@
 By <a href="http://www.ayzenberg.com" target="_blank">Ayzenberg</a>
 
 <img src="https://raw.githubusercontent.com/brandsoulmates/utc-clock/master/images/utcclock.jpg" style="width:100%">
+https://www.youtube.com/watch?v=yC1Jgj0OXl4
 
 # Parts list
 * 3 16x24 Red LED Matrix Panels - https://www.adafruit.com/products/555
